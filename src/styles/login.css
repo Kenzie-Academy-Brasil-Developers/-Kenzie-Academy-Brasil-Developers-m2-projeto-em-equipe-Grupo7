@@ -1,0 +1,46 @@
+.main-login{
+    margin: 0 auto;
+    background: var(--color-secondary);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+.section-login{
+    padding: 20px;
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.div-section{
+    width: 100%;
+}
+
+.div-logomb{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.logo-mobile{
+    margin: 0 auto;
+    width: 200px;
+}
+
+.forms-login{
+    width: 100%;
+}
+
+.div-redirection > a{
+    text-decoration: none;
+    color: var(--color-white);
+}
+.div-redirection > p{
+    color: var(--color-main);
+    font-weight: var(----weigth-1);
+}
+
+
+
